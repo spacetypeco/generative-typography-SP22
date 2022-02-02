@@ -52,7 +52,7 @@ Subject to adjustment.
 
 |Week|Topic| Recordings & Sketches|Assignments
 |-----|----|-----------|------
-|1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| [Week 1 Recorded Session](https://cooper.zoom.us/rec/share/RRPslzl0twdLNmuvSbbneASKASk8fNv421AqjGZVy9bc0Dw1Y6Hx1BMw859rb5OB.kV4pTvxgEoIAQKZM) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/-ylzk1gSV) |Interactive circle drawing <br> + Readings
+|1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| [Week 1 Recorded Session](https://cooper.zoom.us/rec/share/RRPslzl0twdLNmuvSbbneASKASk8fNv421AqjGZVy9bc0Dw1Y6Hx1BMw859rb5OB.kV4pTvxgEoIAQKZM) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/-ylzk1gSV) |Interactive 'brush' tool for drawing <br> + Readings
 |2|[Art, Data, and Grids](#section-2-art-data-and-grids)|  |Grid-inspired composition <br> + Readings
 |3|[Transformation](#section-3-transformation)| | Static or kinetic typography composition<br> + Readings
 |4|[Glitch Art](#section-4-glitch-art)||Glitch Art-inspired composition<br> + Readings
