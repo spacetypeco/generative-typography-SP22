@@ -164,8 +164,9 @@ p5.js tutorials:
 ## ✏️ Week 2 Homework
 
 #### Suggested Assignments
-* (beginner) ASCII/Typewriter Art inspired piece
-* (intermediate+) Creating [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) inspired piece
+* (beginner) Composition inspired by variation and repetition
+* (intermediate) ASCII/Typewriter Art piece
+* (advanceed) Recreate the [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ### Readings
 * [Hieroglyphs](Readings/Hieroglyphs.pdf) by Aaron Marcus, 1978
@@ -174,9 +175,6 @@ p5.js tutorials:
 
 ### (Optional Readings)
 * [The Concept of a Meta-Font](Readings/TheConceptofaMetaFont.pdf) by Donald Knuth
-
-* Reading external images and fonts
-
 
 ## Section 3: Transformation
 
