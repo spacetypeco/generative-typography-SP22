@@ -53,10 +53,10 @@ Subject to adjustment.
 |Week|Topic| Recordings & Sketches|Assignments
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| [Week 1 Recorded Session](https://cooper.zoom.us/rec/share/RRPslzl0twdLNmuvSbbneASKASk8fNv421AqjGZVy9bc0Dw1Y6Hx1BMw859rb5OB.kV4pTvxgEoIAQKZM) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/-ylzk1gSV) |Interactive 'brush' tool for drawing <br> + Readings
-|2|[Art, Data, and Grids](#section-2-art-data-and-grids)|  |Grid-inspired composition <br> + Readings
+|2|[Variation and Repetition](#section-2-variation-and-repetition)|  |Composition inspired by variation and repetition <br> + Readings
 |3|[Transformation](#section-3-transformation)| | Static or kinetic typography composition<br> + Readings
-|4|[Glitch Art](#section-4-glitch-art)||Glitch Art-inspired composition<br> + Readings
-|5|[Movement and Animation](#section-5-movement-and-animation)| |Movement & Animation inspired composition
+|4|[Motion and Animation](#section-4-motion-and-animation)| | Movement & Animation inspired composition
+|5|[Glitch Art](#section-5-glitch-art)|| Glitch Art-inspired composition<br> + Readings
 |6|TBD||Mini Project Ideation
 |7|Mini Project Check-In & Feedback || Mini Project Finesse & Final Project Brainstorming
 |8|Final Project Ideation & Technical Q/A| |Final Project Draft
@@ -95,26 +95,10 @@ Class materials: Grid paper
 *~ Break ~*
 ### 8:15pm 👨🏻‍💻 Technical Demo
 
-### What is a Program?
-
-* Programming as Language
-* What is JavaScript?
-* Learning a language
-	* Reading documentation
-	* Searching for answers
-
-### How Do I JavaScript?
-
-* Web Browsers and the JavaScript Console
-* Primitives and Conditionals
-* Mental Modeling
-* Debugging: Finding errors and their causes
-
 ### Anatomy of a P5.js Sketch
 * Drawing Things!
 * The Execution Loop
 * Mouse Interactivity
-* Reading external images and fonts
 * Randomness
 
 ## ✏️ Week 1 Homework
@@ -142,18 +126,67 @@ p5.js tutorials:
 * [Text and Type](https://creative-coding.decontextualize.com/text-and-type/)
 
 
-## Section 2: Art, Data, and Grids
+## Section 2: Variation and Repetition
 
-Content to be updated weekly
+### 6:30pm ✏️ Discuss Homework
+
+### 7:15pm 📖 Class Reading Discussion 
+
+### 7:45pm 👩🏻‍💻 Early Generative Mediums & Artists
+* Typewriter Art
+  * [Typewriter Art: A Modern Anthology](https://www.laurenceking.com/us/product/typewriter-art/)
+* ASCII Art
+  * [ASCII-art-generator.org](https://www.ascii-art-generator.org/)
+* Concrete Poetry
+
+### Teaching Computers
+* Nature-Inspired algorithms
+* Fallacy of algorithms
+* [Conways' Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+### Generative Type Designers
+* MetaFont & Knuth
+  * [32 Years of MetaFont [video]](https://vimeo.com/184705112)
+* Hershey Fonts
+  * [Letterform Lecture [video]](https://vimeo.com/178015110)
+  * [p5.hershey.js](https://lingdong-.github.io/p5-hershey-js/)
+
+*~ break ~*
+
+### 8:30pm 👨🏻‍💻 **Technical Demo**
+
+* Working with text and custom fonts
+* Variation and tuning sketches, mapping values
+* Repetition (for loops)
+* Text as strings (lists of lines; words; characters)
+* (Advanced) nested for loops, RGB grids and ASCII Art
+
+## ✏️ Week 2 Homework
+
+#### Suggested Assignments
+* (beginner) ASCII/Typewriter Art inspired piece
+* (intermediate+) Creating [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) inspired piece
+
+### Readings
+* [Hieroglyphs](Readings/Hieroglyphs.pdf) by Aaron Marcus, 1978
+* [(P)(E)(R)(S)(E)(V)(E)(R)(E)](Readings/p-e-r-s-e-v-e-r-e.pdf) by Tauba Auerbach, 2017
+* [Unimaginable Images](Readings/Unimaginable_Images.pdf) by Joseph P. Covington III, 1978
+
+### (Optional Readings)
+* [The Concept of a Meta-Font](Readings/TheConceptofaMetaFont.pdf) by Donald Knuth
+
+* Reading external images and fonts
+
 
 ## Section 3: Transformation
 
 Content to be updated weekly
 
-## Section 4: Glitch Art
+## Section 4: Motion and Animation
+
 Content to be updated weekly
 
-## Section 5: Movement and Animation
+## Section 5: Glitch Art
 Content to be updated weekly
 
 ***
