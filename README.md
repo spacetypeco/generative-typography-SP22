@@ -53,7 +53,7 @@ Subject to adjustment.
 |Week|Topic| Recordings & Sketches|Assignments
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| [Week 1 Recorded Session](https://cooper.zoom.us/rec/share/RRPslzl0twdLNmuvSbbneASKASk8fNv421AqjGZVy9bc0Dw1Y6Hx1BMw859rb5OB.kV4pTvxgEoIAQKZM) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/-ylzk1gSV) |Interactive 'brush' tool for drawing <br> + Readings
-|2|[Variation and Repetition](#section-2-variation-and-repetition)|[Week 2 Recorded Session]() <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/Hb0tzIG8J)  |Composition inspired by variation and repetition <br> + Readings
+|2|[Variation and Repetition](#section-2-variation-and-repetition)|[Week 2 Recorded Session](https://cooper.zoom.us/rec/share/EN4HoDgy5WOiGG7uSodic7IxXi1YrfU5ihqTDy3OsfyG25tolrCjNE5-vwWuUsQk.WHjZc7xGa1CPO9uT) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/Hb0tzIG8J)  |Composition inspired by variation and repetition <br> + Readings
 |3|[Transformation](#section-3-transformation)| | Static or kinetic typography composition<br> + Readings
 |4|[Motion and Animation](#section-4-motion-and-animation)| | Movement & Animation inspired composition
 |5|[Glitch Art](#section-5-glitch-art)|| Glitch Art-inspired composition<br> + Readings
