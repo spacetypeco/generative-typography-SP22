@@ -158,8 +158,6 @@ p5.js tutorials:
 * Working with text and custom fonts
 * Variation and tuning sketches, mapping values
 * Repetition (for loops)
-* Text as strings (lists of lines; words; characters)
-* (Advanced) nested for loops, RGB grids and ASCII Art
 
 ## ✏️ Week 2 Homework
 
@@ -177,6 +175,11 @@ p5.js tutorials:
 * [The Concept of a Meta-Font](Readings/TheConceptofaMetaFont.pdf) by Donald Knuth
 
 ## Section 3: Transformation
+
+* Transformations
+* Additional topics: 
+  * Text as strings (lists of lines; words; characters)
+  * (Advanced) nested for loops, RGB grids and ASCII Art
 
 Content to be updated weekly
 
