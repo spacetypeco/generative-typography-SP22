@@ -54,8 +54,8 @@ Subject to adjustment.
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| [Week 1 Recorded Session](https://cooper.zoom.us/rec/share/RRPslzl0twdLNmuvSbbneASKASk8fNv421AqjGZVy9bc0Dw1Y6Hx1BMw859rb5OB.kV4pTvxgEoIAQKZM) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/-ylzk1gSV) |Interactive 'brush' tool for drawing <br> + Readings
 |2|[Variation and Repetition](#section-2-variation-and-repetition)|[Week 2 Recorded Session](https://cooper.zoom.us/rec/share/EN4HoDgy5WOiGG7uSodic7IxXi1YrfU5ihqTDy3OsfyG25tolrCjNE5-vwWuUsQk.WHjZc7xGa1CPO9uT) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/Hb0tzIG8J)  |Composition inspired by variation and repetition <br> + Readings
-|3|[Arrays and Grids](#section-3-arrays-and-grids)| | Grid-inspired composition<br> + Readings
-|4|[Transformation](#section-4-transformation)| | Static or kinetic typography composition<br> + Readings
+|3|[Text, Images, and Arrays](#section-3-text-images-and-arrays)|[Week 3 Recorded Session](https://cooper.zoom.us/rec/share/V-37hDBMxfD8a3EkEFvdyCd3X9smklcn8zWsrqvANkKdCKDiRnadRPkNeDuCDBRz.F0PHeAK42L7C-IZR?startTime=1644971778000) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/VMd1R8ZTF) | Typographic or Image composition<br> + Readings
+|4|[Grids + Transformation](#section-4-grids-and-transformations)| | Static or kinetic typography composition<br> + Readings
 |5|[Motion and Animation](#section-5-motion-and-animation)| | Movement & Animation inspired composition
 |6|[Glitch Art](#section-6-glitch-art)|| Glitch Art-inspired composition<br> + Readings
 |7|TBD||Final Project Ideation
@@ -174,7 +174,7 @@ p5.js tutorials:
 ### (Optional Readings)
 * [The Concept of a Meta-Font](Readings/TheConceptofaMetaFont.pdf) by Donald Knuth
 
-## Section 3: Arrays and Grids
+## Section 3: Text, Images, and Arrays
 
 ### 6:30pm ✏️ Discuss Homework
 
@@ -212,13 +212,12 @@ p5.js tutorials:
 * Text as strings (lists of lines; words; characters)
 * Loading Images
 * Loading Sound
-* nested for loops, RGB grids and ASCII Art
-* Video
 
 ## Week 3 Homework
 
 ### Suggested Assignments
 
+* Typographic or Image composition
 * Grid-inspired composition
   * e.g. typewriter art, ASCII art, video- or image-based art
 
@@ -237,7 +236,14 @@ p5.js tutorials:
 * [On Software, or the Persistence of Visual Knowledge](Readings/wendy-hui-kyong-chun_on-software.pdf) by Wendy Chun, 2004
 * [Graphics Applications In the Environment](Readings/Graphics_Applications_In_the_Environment.pdf) by G. F. Kammerer-Luka, 1976
 
-## Section 4: Transformation
+## Section 4: Grids and Transformations
+
+pt 1
+
+* nested for loops, RGB grids and ASCII Art
+* Video
+
+pt 2
 
 * Transformations (scaling, rotation, translation, shearing)
 * Layouts (map)
