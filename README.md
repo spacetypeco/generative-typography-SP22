@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/kaaDf1Yp2EI7mQo30g/giphy.gif)
 
-- Type@Cooper Public Workshop Spring 2021
+- Type@Cooper Public Workshop Spring 2022
 - 6:30–9:30pm Tuesdays Feb 1st to Apr 5th
 - Instructors: [Lynne Yun & Kevin Yeh](https://spacetypecontinuum.com/)
 - Course Discussion: Slack
@@ -54,11 +54,11 @@ Subject to adjustment.
 |-----|----|-----------|------
 |1|[Introductions, Overview, and Conceptualizing Programs](#section-1-overview-and-conceptualizing-programs)| [Week 1 Recorded Session](https://cooper.zoom.us/rec/share/RRPslzl0twdLNmuvSbbneASKASk8fNv421AqjGZVy9bc0Dw1Y6Hx1BMw859rb5OB.kV4pTvxgEoIAQKZM) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/-ylzk1gSV) |Interactive 'brush' tool for drawing <br> + Readings
 |2|[Variation and Repetition](#section-2-variation-and-repetition)|[Week 2 Recorded Session](https://cooper.zoom.us/rec/share/EN4HoDgy5WOiGG7uSodic7IxXi1YrfU5ihqTDy3OsfyG25tolrCjNE5-vwWuUsQk.WHjZc7xGa1CPO9uT) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/Hb0tzIG8J)  |Composition inspired by variation and repetition <br> + Readings
-|3|[Transformation](#section-3-transformation)| | Static or kinetic typography composition<br> + Readings
-|4|[Motion and Animation](#section-4-motion-and-animation)| | Movement & Animation inspired composition
-|5|[Glitch Art](#section-5-glitch-art)|| Glitch Art-inspired composition<br> + Readings
-|6|TBD||Mini Project Ideation
-|7|Mini Project Check-In & Feedback || Mini Project Finesse & Final Project Brainstorming
+|3|[Arrays and Grids](#section-3-arrays-and-grids)| | Grid-inspired composition<br> + Readings
+|4|[Transformation](#section-4-transformation)| | Static or kinetic typography composition<br> + Readings
+|5|[Motion and Animation](#section-5-motion-and-animation)| | Movement & Animation inspired composition
+|6|[Glitch Art](#section-6-glitch-art)|| Glitch Art-inspired composition<br> + Readings
+|7|TBD||Final Project Ideation
 |8|Final Project Ideation & Technical Q/A| |Final Project Draft
 |9|Final Project - Troubleshooting||Final Project Progress
 |10|Student Presentations||🎉
@@ -174,20 +174,82 @@ p5.js tutorials:
 ### (Optional Readings)
 * [The Concept of a Meta-Font](Readings/TheConceptofaMetaFont.pdf) by Donald Knuth
 
-## Section 3: Transformation
+## Section 3: Arrays and Grids
 
-* Transformations
-* Additional topics: 
-  * Text as strings (lists of lines; words; characters)
-  * (Advanced) nested for loops, RGB grids and ASCII Art
+### 6:30pm ✏️ Discuss Homework
+
+### 7:15pm 📖 Class Reading Discussion 
+
+### 7:45pm 👩🏻‍💻 Generative Writers, Artists & Poets
+**Asemic Writing**
+
+* Voynich manuscript
+* Xu Bing's Book from the Sky
+* Mirtha Dermisache
+* Anders Hoff [Inconvergent](https://inconvergent.net)
+
+**Early Computer Art**
+
+* [Hiroshi Kawano](https://www.overheadcompartment.org/the-work-of-art-in-the-age-of-programmatic-abstraction/)
+* Ken Knowlton
+*  [First Arabic Poster](Readings/First_Arabic_Poster.png)
+- Manfred Mohr
+
+**Web Poetry**
+
+- [Seattle Drift](http://www.vispo.com/animisms/SeattleDriftEnglish.html#) 
+- [Nested](http://orteil.dashnet.org/nested) by Orteil
+- [Lines of Force](http://sync.abue.io/issues/190719nm_sync2_29_linesofforce.pdf) by Nick Montfort
+- [abcdefghijklmnopqrstuvwxyz](https://joerg.piringer.net/index.php?href=performance/abcdefghijklmnopqrstuvwxyz.xml) by Jörg Piringer
+- [Further Sketch](https://www.dwitter.net/d/15695) by Ross Goodwin
+
+
+*~ break ~*
+
+### 8:30pm 👨🏻‍💻 Technical Demo
+
+* Arrays
+* Text as strings (lists of lines; words; characters)
+* Loading Images
+* Loading Sound
+* nested for loops, RGB grids and ASCII Art
+* Video
+
+## Week 3 Homework
+
+### Suggested Assignments
+
+* Grid-inspired composition
+  * e.g. typewriter art, ASCII art, video- or image-based art
+
+### Readings
+
+* [The Fuzzy Edges of Character Encoding](https://rundog.art/issues/automateme/the-fuzzy-edges-of-character-encoding/) by Everest Pipkin
+* [On Weaving](https://www.are.na/block/2597972) by Anni Albers
+  * Designing as Visual Organization (pages 71-80)
+* [Computational Models for Expressive Dimensional Typography](https://www.are.na/block/6926303) by Peter Cho, 1999
+  * Background, Thoughts On Type, Concluding Remarks
+  * Optionally, look through the experiments and other sections.
+
+### (Optional Readings)
+* [Black Gooey Universe](Readings/BlackGooeyUniverse.pdf)
+* [Outer Space and Technological Progress](Readings/Outer_Space_and_Technoligical_Progress.pdf) by Roger Coqart, 1978
+* [On Software, or the Persistence of Visual Knowledge](Readings/wendy-hui-kyong-chun_on-software.pdf) by Wendy Chun, 2004
+* [Graphics Applications In the Environment](Readings/Graphics_Applications_In_the_Environment.pdf) by G. F. Kammerer-Luka, 1976
+
+## Section 4: Transformation
+
+* Transformations (scaling, rotation, translation, shearing)
+* Layouts (map)
+* WebGL and 3D
 
 Content to be updated weekly
 
-## Section 4: Motion and Animation
+## Section 5: Motion and Animation
 
 Content to be updated weekly
 
-## Section 5: Glitch Art
+## Section 6: Glitch Art
 Content to be updated weekly
 
 ***
