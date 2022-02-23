@@ -238,6 +238,12 @@ p5.js tutorials:
 
 ## Section 4: Grids and Transformations
 
+### 6:30pm ✏️ Discuss Homework
+
+### 7:15pm 📖 Class Reading Discussion 
+
+### 7:45pm 👨🏻‍💻 Technical Demo
+
 pt 1
 
 * nested for loops, RGB grids and ASCII Art
@@ -249,7 +255,13 @@ pt 2
 * Layouts (map)
 * WebGL and 3D
 
-Content to be updated weekly
+## Week 4 Homework
+
+### Suggested Assignments
+
+* Grid-inspired composition
+  * e.g. typewriter art, ASCII art, video- or image-based art
+* Static or Kinetic Transform-based composition
 
 ## Section 5: Motion and Animation
 
