@@ -263,6 +263,15 @@ pt 2
   * e.g. typewriter art, ASCII art, video- or image-based art
 * Static or Kinetic Transform-based composition
 
+### (optional) Tutorial Videos
+If you are still unsure about transformations, watch the excellent Coding Train series on Transformations:
+
+**Coding Train (Daniel Shiffman):**
+
+* [Transformations Pt.1](https://www.youtube.com/watch?v=o9sgjuh-CBM)
+* [Transformations Pt.2](https://www.youtube.com/watch?v=pkHZTWOoTLM)
+* [Transformations Pt.3](https://www.youtube.com/watch?v=IVMvq9rd8dA)
+
 ## Section 5: Motion and Animation
 
 Content to be updated weekly
