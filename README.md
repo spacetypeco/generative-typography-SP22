@@ -281,6 +281,7 @@ If you are still unsure about transformations, watch the excellent Coding Train 
 *~ break ~*
 ### 8:30pm 👩🏻‍💻 Inspirational Artists
 - Excerpt from *Visual Grammar* by Christian Leborg
+- Excerpt from *Flexible Visual Systems* by Martin Lorenz
 - Inspirational contemporary artists and designers
 
 ### 9:00pm 👨🏻‍💻 Technical Demo
