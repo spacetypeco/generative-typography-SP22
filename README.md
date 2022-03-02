@@ -286,9 +286,8 @@ If you are still unsure about transformations, watch the excellent Coding Train 
 
 ### 9:00pm 👨🏻‍💻 Technical Demo
 
+* Vectors and Kinetics
 * Classes
-* Using math, flow over time, representing movement
-* Mouse movement paths
 	
 ## ✏️ Week 5 Homework
 Motion & Animation Inspired Sketches (& if you have never used classes before, try to use them!)
