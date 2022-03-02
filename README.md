@@ -56,7 +56,7 @@ Subject to adjustment.
 |2|[Variation and Repetition](#section-2-variation-and-repetition)|[Week 2 Recorded Session](https://cooper.zoom.us/rec/share/EN4HoDgy5WOiGG7uSodic7IxXi1YrfU5ihqTDy3OsfyG25tolrCjNE5-vwWuUsQk.WHjZc7xGa1CPO9uT) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/Hb0tzIG8J)  |Composition inspired by variation and repetition <br> + Readings
 |3|[Text, Images, and Arrays](#section-3-text-images-and-arrays)|[Week 3 Recorded Session](https://cooper.zoom.us/rec/share/V-37hDBMxfD8a3EkEFvdyCd3X9smklcn8zWsrqvANkKdCKDiRnadRPkNeDuCDBRz.F0PHeAK42L7C-IZR?startTime=1644971778000) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/VMd1R8ZTF) | Typographic or Image composition<br> + Readings
 |4|[Grids + Transformation](#section-4-grids-and-transformations)|[Week 4 Recorded Session Demo](https://cooper.zoom.us/rec/share/P4-I6KhlDcO2rIWfItLhxA9bldiazMPY-vDwaSoCp7J3p7Vv2XMGL-AZbyM7erHH.5wSyW7JNsz4o3n9i) <br> [Sketch Collection Pt.1](https://editor.p5js.org/lynneyun/collections/7r6JlaRCG) <br> [Sketch Collection Pt.2](https://editor.p5js.org/kyeah/collections/sYOgQqrb7) | Static or kinetic typography composition<br> + Readings
-|5|[Motion and Animation](#section-5-motion-and-animation)| | Movement & Animation inspired composition
+|5|[Motion and Animation](#section-5-motion-and-animation)| [Week 5 Recorded Session](https://cooper.zoom.us/rec/share/oVyxKTKaggCNDJ0tmqas1Fki5din_n930UTtsbHjIFjNeYrmHc97p6-Qx_zut4Mu.ndEGNuATPiJWK4Rh) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/eaFVSw99U) | Movement & Animation inspired composition
 |6|[Glitch Art](#section-6-glitch-art)|| Glitch Art-inspired composition<br> + Readings
 |7|TBD||Final Project Ideation
 |8|Final Project Ideation & Technical Q/A| |Final Project Draft
@@ -292,6 +292,14 @@ If you are still unsure about transformations, watch the excellent Coding Train 
 	
 ## ✏️ Week 5 Homework
 Motion & Animation Inspired Sketches (& if you have never used classes before, try to use them!)
+
+## 📚 Technical Resources
+
+Coding Train: 
+
+- [Classes in Javascript](https://www.youtube.com/watch?v=T-HGdc8L-7w)
+- [Constructor Arguments with Classes](https://www.youtube.com/watch?v=rHiSsgFRgx4)
+- [Adding Javascript Files in the web editor](https://www.youtube.com/watch?v=5nf41qLeagU)
 
 ## Section 6: Glitch Art
 Content to be updated weekly
