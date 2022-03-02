@@ -274,7 +274,23 @@ If you are still unsure about transformations, watch the excellent Coding Train 
 
 ## Section 5: Motion and Animation
 
-Content to be updated weekly
+### 6:30pm ✏️ Discuss Homework
+
+### 7:00pm 👨🏻‍💻 Tech Q/A Session
+
+*~ break ~*
+### 8:30pm 👩🏻‍💻 Inspirational Artists
+- Excerpt from *Visual Grammar* by Christian Leborg
+- Inspirational contemporary artists and designers
+
+### 9:00pm 👨🏻‍💻 Technical Demo
+
+* Classes
+* Using math, flow over time, representing movement
+* Mouse movement paths
+	
+## ✏️ Week 5 Homework
+Motion & Animation Inspired Sketches (& if you have never used classes before, try to use them!)
 
 ## Section 6: Glitch Art
 Content to be updated weekly
