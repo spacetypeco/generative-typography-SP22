@@ -58,7 +58,7 @@ Subject to adjustment.
 |4|[Grids + Transformation](#section-4-grids-and-transformations)|[Week 4 Recorded Session Demo](https://cooper.zoom.us/rec/share/P4-I6KhlDcO2rIWfItLhxA9bldiazMPY-vDwaSoCp7J3p7Vv2XMGL-AZbyM7erHH.5wSyW7JNsz4o3n9i) <br> [Sketch Collection Pt.1](https://editor.p5js.org/lynneyun/collections/7r6JlaRCG) <br> [Sketch Collection Pt.2](https://editor.p5js.org/kyeah/collections/sYOgQqrb7) | Static or kinetic typography composition<br> + Readings
 |5|[Motion and Animation](#section-5-motion-and-animation)| [Week 5 Recorded Session](https://cooper.zoom.us/rec/share/oVyxKTKaggCNDJ0tmqas1Fki5din_n930UTtsbHjIFjNeYrmHc97p6-Qx_zut4Mu.ndEGNuATPiJWK4Rh) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/eaFVSw99U) | Movement & Animation inspired composition
 |6|[Glitch Art](#section-6-glitch-art)|| Glitch Art-inspired composition<br> + Readings
-|7|TBD||Final Project Ideation
+|7| Demos based on previous Q&A Session ||Final Project Ideation
 |8|Final Project Ideation & Technical Q/A| |Final Project Draft
 |9|Final Project - Troubleshooting||Final Project Progress
 |10|Student Presentations||🎉
@@ -301,7 +301,52 @@ Coding Train:
 - [Adding Javascript Files in the web editor](https://www.youtube.com/watch?v=5nf41qLeagU)
 
 ## Section 6: Glitch Art
-Content to be updated weekly
+### 6:30pm ✏️ Discuss Homework
+
+### 7:15pm 📖 Class Reading Discussion 
+
+### 7:45pm 👩🏻‍💻 The Aesthetics of Data Bending
+* The Aesthetics of Failure
+* John Cage, 4'33"
+* Glitch Art as Style & Statement
+* Typography inspired by Glitch
+* DIY Photo Glitch Exercise
+
+*~ break ~*
+
+### 8:30pm 👨🏻‍💻 Technical Demo
+
+* Breaking data down into components
+* Objects and Agents
+* Fonts as Vectors (Arrays of Objects)
+* Case Study; Point-based Manipulation
+* Case Study: Image-based Copy
+
+## ✏️ Week 6 Homework
+
+Create a Glitch-Aesthetic inspired piece.
+
+
+### Readings
+* [Lossy text compression, for some reason?!](https://youtu.be/meovx9OqWJc) by Allison Parrish
+* [Glitch Aesthetics](https://loriemerson.net/2014/10/01/glitch-aesthetics/) by loriemerson
+
+### If you want to read more...
+* [GltchLnguistx: The Machine in the Ghost / Static Trapped in Mouths](http://lab404.com/glitch/) (Note: You may have to Google your way through Flash links)
+
+* [The Aesthetics of Failure](Readings/Cascone_Aesthetics.pdf) by Kim Cascone
+* [GTLCH AESTHETICS](Readings/Morandi_Iman%202004_Glitch_Aesthetics.pdf) by Iman Moradi
+
+### Even More References
+* [Everest Pipkin's Are.na Collection on Glitch Art](https://www.are.na/everest-pipkin/teaching-glitch-art-glitch-aesthetics-tools)
+* [databending and glitch art by stAllio](http://www.animalswithinanimals.com/bent/) 
+* [The Art of PNG Glitch](http://ucnv.github.io/pnglitch/)
+* [Glitchet Resources](http://www.glitchet.com/resources)
+* [The Glitch Moment(um)](Readings/The%20Glitch%20Moment(um).pdf) / [Glitch Studies Manifesto](https://amodern.net/wp-content/uploads/2016/05/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf)
+* [Thoughts on Glitch[Art]v2.0](Readings/Thoughts%20on%20Glitch%20Art%20v%202.0.pdf)
+* [Compression Aesthetics: Glitch from the Avant Garde to Kanye West](http://ivc.lib.rochester.edu/compression-aesthetics-glitch-from-the-avant-garde-to-kanye-west/) by IVC Author
+* [100 Takes on 'Glitches and bugs in digital art'](https://threadreaderapp.com/thread/1206076224935620609.html)
+
 
 ***
 ## General Resources
