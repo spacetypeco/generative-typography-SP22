@@ -57,7 +57,7 @@ Subject to adjustment.
 |3|[Text, Images, and Arrays](#section-3-text-images-and-arrays)|[Week 3 Recorded Session](https://cooper.zoom.us/rec/share/V-37hDBMxfD8a3EkEFvdyCd3X9smklcn8zWsrqvANkKdCKDiRnadRPkNeDuCDBRz.F0PHeAK42L7C-IZR?startTime=1644971778000) <br> [Demo Sketches](https://editor.p5js.org/lynneyun/collections/VMd1R8ZTF) | Typographic or Image composition<br> + Readings
 |4|[Grids + Transformation](#section-4-grids-and-transformations)|[Week 4 Recorded Session Demo](https://cooper.zoom.us/rec/share/P4-I6KhlDcO2rIWfItLhxA9bldiazMPY-vDwaSoCp7J3p7Vv2XMGL-AZbyM7erHH.5wSyW7JNsz4o3n9i) <br> [Sketch Collection Pt.1](https://editor.p5js.org/lynneyun/collections/7r6JlaRCG) <br> [Sketch Collection Pt.2](https://editor.p5js.org/kyeah/collections/sYOgQqrb7) | Static or kinetic typography composition<br> + Readings
 |5|[Motion and Animation](#section-5-motion-and-animation)| [Week 5 Recorded Session](https://cooper.zoom.us/rec/share/oVyxKTKaggCNDJ0tmqas1Fki5din_n930UTtsbHjIFjNeYrmHc97p6-Qx_zut4Mu.ndEGNuATPiJWK4Rh) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/eaFVSw99U) | Movement & Animation inspired composition
-|6|[Glitch Art](#section-6-glitch-art)|| Glitch Art-inspired composition<br> + Readings
+|6|[Glitch Art](#section-6-glitch-art)|[Week 6 Recorded Session](https://cooper.zoom.us/rec/share/3OsoRspbzyfbo149T44IWz_PPT4uKyREkDwW0EFp97jAZT9X2is2rG7wedV9Ks8d.xLE8vloASkjEmE-x) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/QpxTn_BIR9) | Glitch Art-inspired composition<br> + Readings
 |7| Demos based on previous Q&A Session ||Final Project Ideation
 |8|Final Project Ideation & Technical Q/A| |Final Project Draft
 |9|Final Project - Troubleshooting||Final Project Progress
