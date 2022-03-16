@@ -58,8 +58,8 @@ Subject to adjustment.
 |4|[Grids + Transformation](#section-4-grids-and-transformations)|[Week 4 Recorded Session Demo](https://cooper.zoom.us/rec/share/P4-I6KhlDcO2rIWfItLhxA9bldiazMPY-vDwaSoCp7J3p7Vv2XMGL-AZbyM7erHH.5wSyW7JNsz4o3n9i) <br> [Sketch Collection Pt.1](https://editor.p5js.org/lynneyun/collections/7r6JlaRCG) <br> [Sketch Collection Pt.2](https://editor.p5js.org/kyeah/collections/sYOgQqrb7) | Static or kinetic typography composition<br> + Readings
 |5|[Motion and Animation](#section-5-motion-and-animation)| [Week 5 Recorded Session](https://cooper.zoom.us/rec/share/oVyxKTKaggCNDJ0tmqas1Fki5din_n930UTtsbHjIFjNeYrmHc97p6-Qx_zut4Mu.ndEGNuATPiJWK4Rh) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/eaFVSw99U) | Movement & Animation inspired composition
 |6|[Glitch Art](#section-6-glitch-art)|[Week 6 Recorded Session](https://cooper.zoom.us/rec/share/3OsoRspbzyfbo149T44IWz_PPT4uKyREkDwW0EFp97jAZT9X2is2rG7wedV9Ks8d.xLE8vloASkjEmE-x) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/QpxTn_BIR9) | Glitch Art-inspired composition<br> + Readings
-|7| Demos based on previous Q&A Session ||Final Project Ideation
-|8|Final Project Ideation & Technical Q/A| |Final Project Draft
+|7| [Sound, Texture, and Matter.js](#Section-7-Sound-Texture-and-Matter.js) ||Final Project Idea
+|8|Final Project Idea Share Session & Technical Q/A| |Final Project Draft
 |9|Final Project - Troubleshooting||Final Project Progress
 |10|Student Presentations||🎉
 
@@ -347,6 +347,25 @@ Create a Glitch-Aesthetic inspired piece.
 * [Compression Aesthetics: Glitch from the Avant Garde to Kanye West](http://ivc.lib.rochester.edu/compression-aesthetics-glitch-from-the-avant-garde-to-kanye-west/) by IVC Author
 * [100 Takes on 'Glitches and bugs in digital art'](https://threadreaderapp.com/thread/1206076224935620609.html)
 
+## Section 7: Sound, Texture, and Matter.js
+### 6:30pm ✏️ Discuss Homework
+
+### 7:00pm 👨🏻‍💻 Technical Demo
+* p5.js sound library
+* Using Textures Part 1
+
+*~ break ~*
+
+* Using Textures Part 2
+* Matter.js
+
+## ✏️ Week 7 Homework
+
+Come up with an idea for a project that you want to work on for the next two weeks. The scale of the project is totally up to you. 
+
+In the next class, each person will have about 10 minutes to share their idea and ask for visual/technical feedback. The format is flexible, you can share links, show paper sketches, walk the class through slides, etc.) 
+
+It will help if you can come to class with enough research/progress that you know what your challenges are, so everyone can help you out! :-)
 
 ***
 ## General Resources
