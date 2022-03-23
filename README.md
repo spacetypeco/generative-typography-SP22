@@ -59,7 +59,7 @@ Subject to adjustment.
 |5|[Motion and Animation](#section-5-motion-and-animation)| [Week 5 Recorded Session](https://cooper.zoom.us/rec/share/oVyxKTKaggCNDJ0tmqas1Fki5din_n930UTtsbHjIFjNeYrmHc97p6-Qx_zut4Mu.ndEGNuATPiJWK4Rh) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/eaFVSw99U) | Movement & Animation inspired composition
 |6|[Glitch Art](#section-6-glitch-art)|[Week 6 Recorded Session](https://cooper.zoom.us/rec/share/3OsoRspbzyfbo149T44IWz_PPT4uKyREkDwW0EFp97jAZT9X2is2rG7wedV9Ks8d.xLE8vloASkjEmE-x) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/QpxTn_BIR9) | Glitch Art-inspired composition<br> + Readings
 |7| [Sound, Texture, and Matter.js](#Section-7-Sound-Texture-and-Matterjs) | [Week 7 Recorded Session](https://cooper.zoom.us/rec/share/EcCOCneZoTOxnVtHva14bbBpcMB--ZxPPzwTLjYYMlq5-niGRNTHMNxlXtifeyo-.00X3pvW7BV1KtBpw) <br> [Sketch Collection](https://editor.p5js.org/kyeah/collections/_yFAB3wKp) |Final Project Idea
-|8|Final Project Idea Share Session & Technical Q/A| |Final Project Draft
+|8|Final Project Idea Share Session & Technical Q/A| |Final Project Progress (Feel free to book [office hours](https://calendly.com/spacetype/20-min-office-hour-slots?month=2022-03) if you need)
 |9|Final Project - Troubleshooting||Final Project Progress
 |10|Student Presentations||🎉
 
