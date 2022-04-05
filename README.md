@@ -382,3 +382,42 @@ It will help if you can come to class with enough research/progress that you kno
 Office hours will be offered from the 6th week along with the mini & final project assignments.
 
 ***
+
+## What Should I Do After the Course?
+Pretty much whatever is on your radar of interest! :-) Here are some rabbit holes I would recommend...
+
+**Video/Tutorial Series**
+
+* [The Power of Mathematical Visualization](https://archive.org/details/ThePowerOfMathematicalVisualization)
+
+* **[Nature of Code](https://natureofcode.com/book/)** by Dan Shiffman
+	* [Youtube Series](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) are also available!
+	
+**Other Frameworks & Libraries**
+
+* [Three.js](https://threejs.org/)
+* [Paper.js (SVG)](http://paperjs.org/)
+* [TouchDesigner](https://derivative.ca/)
+	* [TouchDesigner Tutorial List](https://derivative.ca/UserGuide/Tutorials)
+* [Unity](https://unity.com/)
+* [ARKit](https://developer.apple.com/augmented-reality/)
+* [Spark AR](https://sparkar.facebook.com/ar-studio/)
+
+	
+**Shaders**
+
+* [Book of Shaders](https://thebookofshaders.com)
+* [P5.js Shader Tutorial Series](https://itp-xstory.github.io/p5js-shaders/#/)
+* [P5.js Shader example collection on Github](https://github.com/aferriss/p5jsShaderExamples)
+* [Shader School](https://github.com/stackgl/shader-school)
+
+**Online Courses (at least due to COVID-19)**
+
+* [School of Ma](http://schoolofma.org/)
+* [Anderson Ranch](https://www.andersonranch.org/)
+* [SFPC](https://sfpc.io/)
+* [Type@Cooper](http://coopertype.org/)
+* 
+
+**Conferences**
+	* [EYEO](http://eyeofestival.com/)
