@@ -429,5 +429,6 @@ Pretty much whatever is on your radar of interest! :-) Here are some rabbit hole
 * [Morphing: A Guide to Mathematical Transformations for architects and designers](https://www.laurenceking.com/us/product/morphing/) by Joseph Choma
 * [Teasing Typography](https://www.slanted.de/product/teasing-typography/) by Juliane Nöst
 * [Shape Grammars](https://www.slanted.de/product/shape-grammars/) by Jannis Maroscheck
-* [Sketches](https://www.shophansje.net/) by Hansje van Halem
-* 
+* [Sketchbooks](https://www.shophansje.net/) by Hansje van Halem
+* [Typewriter Art: A Modern Anthology](https://www.laurenceking.com/us/product/typewriter-art/) by Barrie Tullett
+* My Way to Typography by Wolfgang Weingart
