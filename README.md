@@ -381,14 +381,6 @@ It will help if you can come to class with enough research/progress that you kno
 ## What Should I Do After the Course?
 Pretty much whatever is on your radar of interest! :-) Here are some rabbit holes I would recommend...
 
-<<<<<<< HEAD
-=======
-***
-
-## What Should I Do After the Course?
-Pretty much whatever is on your radar of interest! :-) Here are some rabbit holes I would recommend...
-
->>>>>>> 41e763d2916e2f1d8db36ee897fe8b108166f73d
 **Video/Tutorial Series**
 
 * [The Power of Mathematical Visualization](https://archive.org/details/ThePowerOfMathematicalVisualization)
@@ -399,18 +391,12 @@ Pretty much whatever is on your radar of interest! :-) Here are some rabbit hole
 **Other Frameworks & Libraries**
 
 * [Three.js](https://threejs.org/)
-<<<<<<< HEAD
-* [TouchDesigner](https://derivative.ca/)
-	* [TouchDesigner Tutorial List](https://derivative.ca/UserGuide/Tutorials)
-* [Unity](https://unity.com/)
-=======
 * [Paper.js (SVG)](http://paperjs.org/)
 * [TouchDesigner](https://derivative.ca/)
 	* [TouchDesigner Tutorial List](https://derivative.ca/UserGuide/Tutorials)
 * [Unity](https://unity.com/)
 * [ARKit](https://developer.apple.com/augmented-reality/)
 * [Spark AR](https://sparkar.facebook.com/ar-studio/)
->>>>>>> 41e763d2916e2f1d8db36ee897fe8b108166f73d
 
 	
 **Shaders**
@@ -428,11 +414,7 @@ Pretty much whatever is on your radar of interest! :-) Here are some rabbit hole
 * [Type@Cooper](http://coopertype.org/)
 
 **Conferences**
-<<<<<<< HEAD
 
-* [EYEO](http://eyeofestival.com/)
-=======
-	
 * [EYEO](http://eyeofestival.com/)
 
 **Books**
@@ -445,4 +427,3 @@ Pretty much whatever is on your radar of interest! :-) Here are some rabbit hole
 * [Sketchbooks](https://www.shophansje.net/) by Hansje van Halem
 * [Typewriter Art: A Modern Anthology](https://www.laurenceking.com/us/product/typewriter-art/) by Barrie Tullett
 * My Way to Typography by Wolfgang Weingart
->>>>>>> 41e763d2916e2f1d8db36ee897fe8b108166f73d
