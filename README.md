@@ -417,7 +417,17 @@ Pretty much whatever is on your radar of interest! :-) Here are some rabbit hole
 * [Anderson Ranch](https://www.andersonranch.org/)
 * [SFPC](https://sfpc.io/)
 * [Type@Cooper](http://coopertype.org/)
-* 
 
 **Conferences**
-	* [EYEO](http://eyeofestival.com/)
+	
+* [EYEO](http://eyeofestival.com/)
+
+**Books**
+
+* [Generative Design](http://www.generative-gestaltung.de/2/)
+* [Flexible Visual Systems](https://www.slanted.de/product/flexible-visual-systems/) by Martin Lorenz
+* [Morphing: A Guide to Mathematical Transformations for architects and designers](https://www.laurenceking.com/us/product/morphing/) by Joseph Choma
+* [Teasing Typography](https://www.slanted.de/product/teasing-typography/) by Juliane Nöst
+* [Shape Grammars](https://www.slanted.de/product/shape-grammars/) by Jannis Maroscheck
+* [Sketches](https://www.shophansje.net/) by Hansje van Halem
+* 
